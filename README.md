@@ -1,4 +1,4 @@
-# Discrete Choice Model Calibration (Excel) 📊🚗
+# Discrete Choice Model Calibration (Excel) 📊🚗 
 
 ## Overview
 This repository contains a fully transparent, spreadsheet-based implementation for calibrating **Discrete Choice Models**, specifically the Multinomial Logit (MNL) model. 
